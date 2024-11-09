@@ -1,6 +1,6 @@
 {
-  "name": "NewFleet",
-  "short_name": "Fleet",
+  "name": "NewMobileFleet",
+  "short_name": "NewMobileFleet",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
