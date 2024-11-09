@@ -1,0 +1,176 @@
+{
+  "BACK_BUTTON_TEXT": "Voltar",
+
+  "NAME": "Nome",
+  "EMAIL": "Email",
+  "USERNAME": "Usuário",
+  "PASSWORD": "Senha",
+  "PASSWORD_CONFIRM": "Confirmar Senha",
+  "PASSWORD_SYSTEM": "Sistema de Senhas",
+  "RESET_PASSWORD": "Resetar Senha",
+  "LOGIN": "Entrar",
+  "SIGNUP": "Cadastre-se",
+
+  "TAB1_TITLE": "Veículos",
+  "TAB2_TITLE": "Filtro",
+  "TAB3_TITLE": "Mapa",
+  "MAP_TITLE": "Mapa",
+  "MAP": "Mapa",
+  "GRAPHIC_QUERY": "Consulta Gráfica",
+  "SENSORS": "Sensores",
+  "MESSAGES": "Mensagens",
+  
+  "VEHICLE_INFORMATION": "Informação do Veículo",
+  
+  "ADDITIONAL_INFORMATION": "Informação Adicional",
+  
+  "POINT_REGISTER": "Cadastrar Ponto",
+  "COMMAND": "Comando",
+
+  "TUTORIAL_SKIP_BUTTON": "Pular",
+  "TUTORIAL_CONTINUE_BUTTON": "Continuar",
+
+  "TUTORIAL_SLIDE1_TITLE": "Bem-vindo ao Ionic Super Starter",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "O <b>Ionic Super Starter</b> é um starter para Ionic completo, com diversos componentes e páginas prontas para ser utilizado como guia de melhores práticas.",
+
+  "TUTORIAL_SLIDE2_TITLE": "Como utilizar o Super Starter",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Combine os tipos de páginas que você quer e remova aquelas que não precisa. No starter existem muitos casos de uso comuns de layouts e páginas como login, cadastro, abas e de tutorial.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Iniciando o projeto",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Precisa de ajuda? Dê uma olhada no README do Super Starter para um tutorial completo",
+
+  "TUTORIAL_SLIDE4_TITLE": "Pronto para Usar?",
+
+  "WELCOME_INTRO": "O ponto de partida para seu próximo app feito no Ionic",
+
+  "SETTINGS_TITLE": "Configurações",
+  "SETTINGS_OPTION1": "Opção 1",
+  "SETTINGS_OPTION2": "Opção 2",
+  "SETTINGS_OPTION3": "Opção 3",
+  "SETTINGS_OPTION4": "Opção 4",
+
+  "SETTINGS_PROFILE_BUTTON": "Editar Perfil",
+
+  "SETTINGS_PAGE_PROFILE": "Editar Perfil",
+
+  "WELCOME_TITLE": "Bem-vindo",
+
+  "LOGIN_TITLE": "Entrar",
+  "LOGIN_ERROR": "Não foi possível entrar na sua conta. Verifique seus dados e tente novamente.",
+  "LOGIN_BUTTON": "Entrar",
+  "SIGNUP_TITLE": "Cadastre-se",
+  "SIGNUP_ERROR": "Não foi possível criar sua conta. Verifique seus dados e tente novamente.",
+  "SIGNUP_BUTTON": "Cadastre-se",
+  "HTTP_LOGIN_ERROR": "Verifique a internet, se persistir entre em contato com o suporte HPS!",
+  "LIST_MASTER_TITLE": "Itens",
+
+  "ITEM_CREATE_TITLE": "Novo Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Adicionar Imagem",
+
+  "ITEM_NAME_PLACEHOLDER": "Nome",
+  "ITEM_ABOUT_PLACEHOLDER": "Sobre",
+
+  "DONE_BUTTON": "Pronto",
+  "CANCEL_BUTTON": "Cancelar",
+  "DELETE_BUTTON": "Apagar",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Filtro",
+  "SEARCH_PLACEHOLDER": "Procure um item da lista, ex: \"Donald Duck\"",
+  "FILTER": "Filtrar",
+  "IGNITION": "Ignição",
+  "CHANNEL": "Canal",
+  "ON": "Ligado",
+  "OFF": "Desligado",
+  "TECHNOLOGY": "Tecnologia",
+  "SELECT": "Selecione",
+  "DESCRIPTION": "Descrição",
+  "TERMINAL": "Terminal",
+  "POINT": "Ponto",
+  "CLIENT": "Cliente",
+  "PLATE": "Placa",
+  "WAIT": "Aguarde...",
+  "SEND_MESSAGE": "Envie uma mensagem",
+
+
+  "Sensores": "Sensores",
+  "Atuadores": "Atuadores",
+  "Outros": "Outros",
+  "Ignição": "Ignição",
+  "Painel Violado": "Painel Violado",
+  "Pânico": "Pânico",
+  "Bloqueio": "Bloqueio",
+  "Desengate": "Desengate",
+  "Teclado Ativado": "Teclado Ativado",
+  "Inversão Desengate": "Inversão Desengate",
+  "Sinal do Módulo": "Sinal do Módulo",
+  "Satélites": "Satélites",
+  "Temperatura Módulo": "Temperatura Módulo",
+
+  "CODE": "Código",
+  "COLOR": "Cor",
+  "VEHICLE_TYPE": "Tipo do Veículo",
+  "MODEL": "Modelo",
+  "BRAND": "Marca",
+  "VEHICLE_EQUIPMENT": "Equipamentos do Veículo",
+  "MAIN": "Principal",
+  "SECONDARY": "Secundário",
+  "COMMENTS": "Observações",
+  "COMMENTS1": "Obs 1",
+  "COMMENTS2": "Obs 2",
+  "COMMENTS3": "Obs 3",
+  "ROUTE": "Rota",
+  "EXPIRY_DATE": "Data da expiração",
+  "CART_PLATE": "Placa Carreta",
+  "ADDITIONAL": "Adicional",
+  
+  "TYPE_POINT": "Tipo Ponto",
+  "SAVE": "Salvar",
+  "SAVESUCCESS": "Salvo com sucesso!",
+  "FAILURE": "Falha, tente novamente",
+  "FAILE_CMD": "Comando não foi enviado!",
+  "SUCCESS_CMD": "Comando enviado com sucesso!",
+  
+  "POSITION": "Posição",
+  "DISABLE": "Desativar",
+  "ENABLE": "Ativar",
+  
+  "INSTANT_BLOCK": "Bloqueio instantâneo",
+  
+  "PISCA": "Pisca",
+  "SIREN": "Sirene",
+  
+  "IMMOBILIZER": "Imobilizador",
+  "LATCH_5_WHEEL": "Trava 5 rodas",
+  "EXCESS": "Excesso",
+  "TRIP": "Desengate",
+  "AUTHORIZATION": "Autorização",
+  "DISABLE_KEYBOARD_ALERT": "Desativar Alerta Teclado",
+  "DISABLE_KEYBOARD_ALERT2": "Desativar Alertas (Teclado, Buzzer, Pisca, Sonoro)",
+  "DISABLE_KEYBOARD_ALERT3": "Desativar Alertas + Reset Teclado (Teclado, Buzzer, Pisca, Sonoro)",
+  "CONFIRMATION_CMD": "Tem certeza?",
+  
+  "YES_SURE": "Sim, tenho certeza",
+  "COMMANDS": "Comandos",
+  "TRACK": "Rota",
+  "CANCEL": "Cancelar",
+  "DONE": "Confirmar",
+  "FROM_DATE": "Data Inicio",
+  "TO_DATE": "Data Fim",
+  "MSG_VEICULO_ERROR_VAZIO": "Não existe veículo para essa pesquisa",
+  "NO_ROTA": "Sem Utilização de Rota ",
+  "EXIT": "Sair",
+  "list_of_commands": "Lista de Comandos",
+  "TRAVA_BAU": "Trava Baú",
+  "ERROR_COINCIDE_SENHA": "Essas senhas não coincidem. Tentar novamente.",
+  "ERRROR_PASSWORD_6REQUERID": "Use 6 caracteres ou mais para sua senha",
+  "Senha alterada com sucesso!": "Senha alterada com sucesso!",
+  "Senha não alterada!": "Senha não alterada!",
+  "RESET_PASSWORD": "Resetar senha",
+  "DIRECTION": "Direção",
+  "DATETIME": "Data/Hora",
+  "SPEED": "Velocidade",
+  "LOCATION": "Localização"
+
+}
